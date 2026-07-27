@@ -1,1 +1,1 @@
-
+Three live titles now — $7.99, $6.99, and $10.99. Just swap this `books.js` into your GitHub repo and it'll redeploy with all three on the shelf. Got more titles to add, or ready to move to the next venture?
